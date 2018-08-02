@@ -1,4 +1,17 @@
+
+Technologies Familier with -- 
+
+C#
+SQLSERVER 
+ SSIS 
+ SSRS
+ PowerBI
+  R
+ Python
+ Analytics - Machine Learning
+ 
 Automation
 ==========
-
-Automation with PHP and Selenium
+C# and Selenium
+BDD
+RPA: UIPath
